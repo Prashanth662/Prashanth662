@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prashanth662
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
