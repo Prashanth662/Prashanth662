@@ -10,12 +10,12 @@
 
 ## 👨‍💻 About Me
 Passionate and curious developer with hands-on experience in **Web Development**.  
-I thrive on exploring new technologies and am eager to grow my skills in **PHP, MERN Stack, and Python**.  
+I thrive on exploring new technologies and am eager to grow my skills in **PHP, MERN Stack, and Java**.  
 
 ---
 
 ## 🚀 Key Skills
-- PHP | Python  
+- PHP | Java  
 - MERN Stack (MongoDB, Express.js, React, Node.js)  
 - HTML | CSS | Bootstrap  
 - JavaScript | jQuery  
@@ -31,8 +31,7 @@ I thrive on exploring new technologies and am eager to grow my skills in **PHP, 
 
 ## 📫 Contact Me
 - 📧 Email: prashanthbonakurthi1508@gmail.com  
-- 💼 LinkedIn: [linkedin.com/in/your-profile]  
-- 🌐 Portfolio: [yourwebsite.com]  
-
+- 💼 LinkedIn: https://www.linkedin.com/in/prashanthbonakurthi  
+- 🌐 Portfolio: https://prashanth-portfolios.netlify.app/
 ---
-✨ *Open to internships, entry-level opportunities, and freelance projects.*
+✨ *Open to entry-level opportunities, and freelance projects.*
